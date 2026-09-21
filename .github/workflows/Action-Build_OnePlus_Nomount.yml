@@ -1,4 +1,4 @@
-name: Build All OnePlus Kernels
+name: Build All OnePlus Kernels NoMount
 on:
   workflow_dispatch:
     inputs:
