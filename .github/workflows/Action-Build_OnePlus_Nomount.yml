@@ -124,6 +124,7 @@ on:
         required: false
         default: ""
       RESUBLEVEL:
+        type: string
         description: "自定义内核等级欺骗(SUBLEVEL)//Custom kernel SUBLEVEL spoofing"
         required: false
         default: ""
